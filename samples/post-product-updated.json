@@ -1,0 +1,7 @@
+{
+	"id": "prod_001",
+	"name": "Super Widget",
+	"pricePence": 1299,
+	"description": "A versatile widget for demos and tests",
+	"updatedAt": "2025-10-30T12:00:00.000Z"
+}
